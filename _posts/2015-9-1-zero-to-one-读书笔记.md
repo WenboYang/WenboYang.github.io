@@ -8,6 +8,7 @@ comments: true
 我想就用这7个问题纸上谈兵, 分析预测一些项目，过段时间可以回顾一下，看看预测的准不准。
 
 微信: 3/7
+
 1. Breakthrough technology, 背后一定有大量技术细节，但是跟breakthrough无关，0分；
   
 2. Timing，推出大约和iPhone在中国普及同步，1分；
