@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Wenbo
-tagline:             coding, thinking, reading
+tagline:             yak shaving, daydreaming
 url:                 http://wenboyang.github.com
 paginate:            1
 baseurl:             ""
