@@ -38,7 +38,7 @@ comments: true
 lazy-ext4, 通过对底层硬件特性的把握，找到历史实现中不再合适的地方，get hands dirty 从而实现avoid “dirty hands”。相关[论文](https://www.usenix.org/system/files/conference/fast17/fast17-aghayev.pdf)发在了usenix的会上。
 
 ### Reproducible Build
-Reproducible build, diffscope
+来自Debian的Chris Lamb。无论何时何地编译，同样的代码产生同样的二进制包，这对嵌入式应用和安全有用。相关[网站](https://reproducible-builds.org/)，还开发了一个包diff工具甚至有在线版，[diffscope](https://diffoscope.org/)
 
 ### Enhancing Linux Security with the TPM
 来自IBM的James Bottomley, 这个分享整体效果很好，可惜时间短些。我录了音。
