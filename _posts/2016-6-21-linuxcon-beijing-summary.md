@@ -41,12 +41,13 @@ lazy-ext4, 通过对底层硬件特性的把握，找到历史实现中不再合
 来自Debian的Chris Lamb。无论何时何地编译，同样的代码产生同样的二进制包，这对嵌入式应用和安全有用。相关[网站](https://reproducible-builds.org/)，还开发了一个包diff工具甚至有在线版，[diffscope](https://diffoscope.org/)
 
 ### Enhancing Linux Security with the TPM
-来自IBM的James Bottomley, 这个分享整体效果很好，可惜时间短些。我录了音。![init order](/pics/TMP.ogg)
+来自IBM的James Bottomley, 这个分享整体效果很好，可惜时间短些。
 
 利用每个主板都有的TPM芯片，代替YUBIKEY等实体密钥。
 
 还听了也是IBM来的Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 思考： 这些项目也许份量难度不同，但相同的是生活工作中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，例如linux kernel, latex */
 
+[手机录音](https://soundcloud.com/user-796021324/james_bottomley_tpm_linux_security_lc3_beijing_2017)
 用impress.js作的[slides](http://www.hansenpartnership.com/Impress-Slides/LinuxCon-China-2017/#/begin)
 
 ### 64-bit ARM Unikernels on uKVM
