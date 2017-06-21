@@ -43,7 +43,7 @@ lazy-ext4, 通过对底层硬件特性的把握，找到历史实现中不再合
 ### Enhancing Linux Security with the TPM
 来自IBM的James Bottomley, 这个分享整体效果很好，可惜时间短些。我录了音。
 
-利用每个主板都有的TPM芯片，代替UbiKey等实体密钥。
+利用每个主板都有的TPM芯片，代替YUBIKEY等实体密钥。
 
 还听了也是IBM来的Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 思考： 这些项目也许份量难度不同，但相同的是生活工作中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，例如linux kernel, latex */
 
