@@ -36,7 +36,7 @@ public:
 **Mind set: a good C++ programer should always think as a library builder**. Design your class and write your code as if they will run on server many many times, as they will be inherited, or be re-used as a component of many many other classes maintained by many different people.
 
 
-###Constructor ###
+### Constructor ###
 
 What is the problem of this constructor? 
 
@@ -63,7 +63,7 @@ inline Rectangle::Rectangle( const int width, const int height, const int x, con
 {% endhighlight %}
 
 
-###Destructor
+### Destructor ###
 Is this destructor OKAY?
 
 {% highlight C++ linenos %}
@@ -94,7 +94,7 @@ Rectangle* Foo()
 {% endhighlight %}
 
 
-###Copy constructor
+### Copy constructor ###
 Principle is to let each class take care of its own internal states and implementations. We just stick to the interface, which is kind of a contract between different classes. Therefore, when building the copy constructor, we prefer to use the constructor of member/parent classes, like this. 
 
 {% highlight C++ linenos %}
@@ -150,7 +150,7 @@ Luckliy, when the evaluation order is not the same as I write down them, the com
 
 >RecTangle.cpp:78:1: 警告：   在此处初始化后被初始化 [-Wreorder]
 
-###Copy assignment
+### Copy assignment ###
 Similarly, always prefer the assigment operator of parent and component classes:
 
 {% highlight C++ linenos %}
@@ -187,7 +187,7 @@ Rectangle& operator=(const Rectangle &other )
 {% endhighlight %}
 
 
-#[A wonderful note by my classmate.](http://www.jianshu.com/p/629c743b0fd3?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weixin&from=groupmessage&isappinstalled=0)
+# [A wonderful note by my classmate.](http://www.jianshu.com/p/629c743b0fd3?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weixin&from=groupmessage&isappinstalled=0)
 
          
 
