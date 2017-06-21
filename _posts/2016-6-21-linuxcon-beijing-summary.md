@@ -16,7 +16,8 @@ https://lc3china2017.sched.com/allensamuels
 https://www.linux.com/videos/ceph-and-flash-allen-samuels-western-digital
 
 
-### Linux foundation培训有中国分部了不要熬夜了。
+### Linux foundation中国分部
+参加培训不要熬夜了。
 
 ### Ted关于Ext4的分享
 lazy ext4 first principle , dirty hands to avoid dirty hands, read the paper
@@ -29,7 +30,15 @@ Reproducible build, diffscope
 James, TPM 不用USB盘了， mattel的 termostat, 不舒服的地方用代码去改变， 开源出来， 无心插柳， linux kernel, latex, 都是如此
 
 ### NEAOSS 训练营
-重头，是和ted greg的互动，开源社区精力旺盛，开放的心态，认真回答每一个问题。horse for course, 技术的使用场景，domain specific language/hard ware/file system, app平台化，平台app 化，抽象层的增减。 test suite, 大家也都很关心。xfstests历史，测过再提交，maintainer的精力有限。提要求不如提patch。几点入门的要诀。
+重头，是和ted greg的互动，开源社区精力旺盛，开放的心态，认真回答每一个问题。horse for course, 技术的使用场景，domain specific language/hard ware/file system, app平台化，平台app 化，抽象层的增减。 test suite, 大家也都很关心。xfstests历史，测过再提交，maintainer的精力有限。提要求不如提patch。
+
+几点入门的要诀。
+* 全部通读在目前很难。建议找到感兴趣的子系统，读这个特定部分的代码，自然延伸到和它邻接和互动的模块；
+* 尝试做一些简单的patch;
+* 比如一些历史遗留的文件系统；
+* 可以尝试解决test failure，比如XFS tes和LTP test;
+* 不要只是读，要动手参与贡献！
+
 互动，合影。
 
 
