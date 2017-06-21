@@ -18,8 +18,8 @@ comments: true
 
 问答环节：
 * horses for courses, 技术的使用场景。 /* 思考domain specific language/hard ware/file system, app平台化，平台app化，抽象层的增减。*/
-* Linux文件系统的test suite, 是源于神奇公司SGI的xfstests suite，他要求社区的贡献者测过再提交，maintainer的精力有限;
-https://github.com/tytso/xfstests-bld/blob/master/Documentation/what-is-xfstests.md
+* Linux文件系统的test suite, 是源于神奇公司SGI的[xfstests suite](https://github.com/tytso/xfstests-bld/blob/master/Documentation/what-is-xfstests.md)，他要求社区的贡献者测过再提交，maintainer的精力有限;
+
 * 提要求不如提patch;
 
 在回答一个同学关于阅读内核原代码的建议时，Ted讲了几点入门的要诀：
