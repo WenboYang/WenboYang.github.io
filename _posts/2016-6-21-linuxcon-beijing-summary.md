@@ -45,10 +45,10 @@ lazy-ext4, 通过对底层硬件特性的把握，找到历史实现中不再合
 
 利用每个主板都有的TPM芯片，代替YUBIKEY等实体密钥。
 
-还听了也是IBM来的Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 思考： 这些项目也许份量难度不同，但相同的是生活工作中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，例如linux kernel, latex */
-
 [手机录音](https://soundcloud.com/user-796021324/james_bottomley_tpm_linux_security_lc3_beijing_2017)
-用impress.js作的[slides](http://www.hansenpartnership.com/Impress-Slides/LinuxCon-China-2017/#/begin)
+作者用impress.js作的[slides](http://www.hansenpartnership.com/Impress-Slides/LinuxCon-China-2017/#/begin)
+
+还听了也是IBM来的Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 思考： 这些项目也许份量难度不同，但相同的是生活工作中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，例如linux kernel, latex */
 
 ### 64-bit ARM Unikernels on uKVM
 黄宇强同学的在线[笔记](https://hackmd.io/s/BkoYAUrQb)
