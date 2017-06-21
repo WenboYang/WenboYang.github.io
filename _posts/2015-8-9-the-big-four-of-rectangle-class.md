@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The "Big Four" for Rectangle Class
+title: The "Big Four" for A Rectangle Class
 comments: true
 ---
 This is a brief class note of the first offline C++ coding exercise in [GeekBand](http://www.geekband.com).
