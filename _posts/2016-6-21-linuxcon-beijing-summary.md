@@ -9,7 +9,7 @@ comments: true
 参加前在shed上定了个日程:
 https://lc3china2017.sched.com/yangwenbo
 
-有心人会发现除了Linus等核心maintainer, 一些重量级的人物也会以听众身份低调参加，比如这位Allen现场穿了一件GCC文化衫。
+有心人会发现除了Linus等核心maintainer, 一些重量级的人物也会以听众身份低调参加。比如这位Allen，现场穿了一件GCC文化衫，安静地坐在那里聆听思考记录。
 https://lc3china2017.sched.com/allensamuels
 
 这是之前他在LinuxCon做的Ceph和Flash方面的分享：
