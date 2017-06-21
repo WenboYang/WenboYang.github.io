@@ -45,14 +45,15 @@ lazy ext4 first principle , dirty hands to avoid dirty hands, read the paper
 Reproducible build, diffscope
 
 ### Enhancing Linux Security with the TPM
-这个分享整体效果很好，可惜时间短些。
+来自IBM的James Bottomley, 这个分享整体效果很好，可惜时间短些。我录了音。
 利用每个主板都有的TPM芯片，代替UbiKey等实体密钥。
 还听了Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 生活中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，linux kernel, latex */
+http://www.hansenpartnership.com/Impress-Slides/LinuxCon-China-2017/#/begin
 
-### Unikernel on ARM
+### 64-bit ARM Unikernels on uKVM
 黄宇强同学的在线笔记：
 https://hackmd.io/s/BkoYAUrQb
 
 ## 给大会组织者的小建议
-即使小会场也能录音录像，作为资料。另外代码之外交流的细节体现功力积累和做事的方法风格，这些都是很好的养料。
+即使小会场也能录音录像，作为资料。另外代码之外交流的细节体现功力积累和做事的方法风格，对我们都是养料。
 
