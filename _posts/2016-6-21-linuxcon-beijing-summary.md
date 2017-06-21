@@ -25,9 +25,10 @@ lazy ext4 first principle , dirty hands to avoid dirty hands, read the paper
 ### Reproducible Build
 Reproducible build, diffscope
 
-### James on TPM
-这个分享整体效果很好，可以时间短些。
-James, TPM 不用USB盘了， mattel的 termostat, 不舒服的地方用代码去改变， 开源出来， 无心插柳， linux kernel, latex, 都是如此
+### Enhancing Linux Security with the TPM
+这个分享整体效果很好，可惜时间短些。
+利用每个主板都有的TPM芯片，代替UbiKey等实体密钥。
+还听了Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 生活中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，linux kernel, latex */
 
 ### NEAOSS 训练营
 重头，是和Ted以及Greg的互动, 直接感受到两位人物精力的旺盛，开放的心态，认真回答每一个问题。问答环节：
