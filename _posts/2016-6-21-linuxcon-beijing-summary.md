@@ -30,12 +30,12 @@ comments: true
 
 之后和峰光，陈钟教授的互动。
 
-其他的几个比较感兴趣的分享：
+其它几个比较感兴趣的分享：
 ### Linux foundation中国分部
 参加培训不要熬夜了。
 
 ### Ted关于Ext4的分享
-lazy ext4 first principle , dirty hands to avoid dirty hands, read the paper
+lazy-ext4, 通过对底层硬件特性的把握，找到历史实现中不再合适的地方，get hands dirty 从而实现avoid “dirty hands”。有详细的论文。
 
 ### Reproducible Build
 Reproducible build, diffscope
