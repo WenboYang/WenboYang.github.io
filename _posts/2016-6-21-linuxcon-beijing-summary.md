@@ -16,6 +16,25 @@ https://lc3china2017.sched.com/allensamuels
 https://www.linux.com/videos/ceph-and-flash-allen-samuels-western-digital
 
 
+### NEAOSS 训练营
+是我这次活动的重头。和Ted以及Greg的互动, 直接感受到两位人物精力的旺盛，开放的心态，认真回答每一个问题。
+
+问答环节：
+* horses for courses, 技术的使用场景。 /* 思考domain specific language/hard ware/file system, app平台化，平台app化，抽象层的增减。*/
+* Linux文件系统的test suite, 是源于神奇公司SGI的xfstests suite，他要求社区的贡献者测过再提交，maintainer的精力有限;
+https://github.com/tytso/xfstests-bld/blob/master/Documentation/what-is-xfstests.md
+* 提要求不如提patch;
+
+在回答一个同学关于阅读内核原代码的建议时，Ted讲了几点入门的要诀：
+* 全部通读在目前很难。建议找到感兴趣的子系统，读这个特定部分的代码，自然延伸到和它邻接和互动的模块；
+* 尝试做一些简单的patch;
+* 比如一些历史遗留的文件系统；
+* 可以尝试解决test failure，比如XFS tes和LTP test;
+* 不要只是读，要动手参与贡献！
+
+之后和峰光，陈钟教授的互动。
+
+其他的几个比较感兴趣的分享：
 ### Linux foundation中国分部
 参加培训不要熬夜了。
 
@@ -30,20 +49,9 @@ Reproducible build, diffscope
 利用每个主板都有的TPM芯片，代替UbiKey等实体密钥。
 还听了Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 生活中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，linux kernel, latex */
 
-### NEAOSS 训练营
-重头，是和Ted以及Greg的互动, 直接感受到两位人物精力的旺盛，开放的心态，认真回答每一个问题。问答环节：
-* horse for course, 技术的使用场景。 /* 思考domain specific language/hard ware/file system, app平台化，平台app 化，抽象层的增减。*/
-* Linux文件系统的test suite, 是源于神奇公司SGI的xfstests suite，测过再提交，maintainer的精力有限;
-* 提要求不如提patch;
-
-在回答一个同学关于阅读内核原代码的建议时，Ted讲了几点入门的要诀：
-* 全部通读在目前很难。建议找到感兴趣的子系统，读这个特定部分的代码，自然延伸到和它邻接和互动的模块；
-* 尝试做一些简单的patch;
-* 比如一些历史遗留的文件系统；
-* 可以尝试解决test failure，比如XFS tes和LTP test;
-* 不要只是读，要动手参与贡献！
-
-之后和组织者互动，峰光，陈教授的总结。
+### Unikernel on ARM
+黄宇强同学的在线笔记：
+https://hackmd.io/s/BkoYAUrQb
 
 ## 给大会组织者的小建议
 即使小会场也能录音录像，作为资料。另外代码之外交流的细节体现功力积累和做事的方法风格，这些都是很好的养料。
