@@ -17,7 +17,7 @@ comments: true
 是我这次活动的重头。和Ted以及Greg的互动, 直接感受到两位人物精力的旺盛，开放的心态，认真回答每一个问题。
 
 问答环节：
-* horses for courses, 技术的使用场景。 /* 思考domain specific language/hard ware/file system, app平台化，平台app化，抽象层的增减。*/
+* horses for courses, 技术的使用场景。 /* 思考: domain specific language/hard ware/file system, app平台化，平台app化，抽象层的增减。*/
 * Linux文件系统的测试集, 是源于神奇公司SGI的[xfstests suite](https://github.com/tytso/xfstests-bld/blob/master/Documentation/what-is-xfstests.md)，Ted要求社区的贡献者在测试集测过再提交，maintainer的精力有限;
 * 提要求不如提patch;
 
@@ -43,7 +43,7 @@ Reproducible build, diffscope
 ### Enhancing Linux Security with the TPM
 来自IBM的James Bottomley, 这个分享整体效果很好，可惜时间短些。我录了音。
 利用每个主板都有的TPM芯片，代替UbiKey等实体密钥。
-还听了Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 生活中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，linux kernel, latex */
+还听了Matthew Treisnish的一个分享，改造老旧公寓里的温度控制器。/* 思考： 生活中遇到的不舒服的地方尝试用代码去改变，开源出来，无心插柳，例如linux kernel, latex */
 用impress.js作的[slides](http://www.hansenpartnership.com/Impress-Slides/LinuxCon-China-2017/#/begin)
 
 ### 64-bit ARM Unikernels on uKVM
