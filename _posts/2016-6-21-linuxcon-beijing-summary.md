@@ -32,10 +32,10 @@ comments: true
 
 其它几个比较感兴趣的分享：
 ### Linux foundation中国分部
-参加培训不要熬夜了。
+参加基金会的培训再也不用熬夜了。
 
 ### Ted关于Ext4的分享
-lazy-ext4, 通过对底层硬件特性的把握，找到历史实现中不再合适的地方，get hands dirty 从而实现avoid “dirty hands”。有详细的论文。
+lazy-ext4, 通过对底层硬件特性的把握，找到历史实现中不再合适的地方，get hands dirty 从而实现avoid “dirty hands”。相关[论文](https://www.usenix.org/system/files/conference/fast17/fast17-aghayev.pdf)发在了usenix的会上。
 
 ### Reproducible Build
 Reproducible build, diffscope
